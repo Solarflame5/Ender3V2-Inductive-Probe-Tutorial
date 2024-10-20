@@ -2,7 +2,12 @@
 This repository includes includes information on how to install a generic inductive probe on an Ender 3 V2, using [mriscoc](https://github.com/mriscoc)'s [Professional Firmware](https://github.com/mriscoc/Ender3V2S1).
 
 > [!IMPORTANT]
-> Inductive probes only work on metallic beds, it will not work on a glass or garolite bed, I recommend using a PEI coated spring steel bed.
+> Inductive probes only work on metallic print beds, it will not work on a glass or garolite print bed, I recommend using a PEI coated spring steel print bed.
+
+> [!NOTE]
+> The Ender 3 doesn't have a very stable structure, even with dual Z-rods, and often comes misaligned out of the factory. Your mileage with any form of bed leveling will vary due to this.
+> 
+> I don't have a dual Z upgrade and I tried my best to level the upper frame and the gantry, despite my efforts I still can't get a perfectly accurate bed mesh especially towards the right where the gantry is unsupported.
 
 > [!CAUTION]
 > This tutorial is based on my own setup and yours might differ, try this at your own risk, **I'm not responsible for any damage to your printer.**
